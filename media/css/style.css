@@ -1,0 +1,33 @@
+/*CSS du fichier/*/
+
+
+
+    body{
+        margin-top: 80px;
+        background-color: #DCDCDC;
+        font-family: 'Roboto', sans-serif;
+      }
+
+    .dropdown-menu a{
+            color : white;
+        }
+
+    .card{
+        height: auto;
+        margin-bottom: 30px;
+    }
+    
+/*
+@media (max-width: 1025px) {  
+    .card{
+        min-height: 600px;
+        margin-bottom: 30px;
+    }}
+
+@media (min-width: 1026px) {
+.card{
+        height: 400px;
+        margin-bottom: 30px;
+    }}
+
+
